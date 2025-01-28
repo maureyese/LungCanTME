@@ -15,3 +15,9 @@ luad <- curatedTCGAData(
 )
 #revisar la cant de pacientes por datos moleculares
 sampleTables(luad)
+install.packages(tidyverse)
+BiocManager::install("TCGAbiolinks")
+BiocManager::install("TCGAbiolinks")
+
+
+
