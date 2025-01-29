@@ -1,0 +1,10 @@
+# Ignore specific files
+parte1_datosclinicos.RData
+.Rhistory
+MANIFEST.txt
+
+# Ignore the entire GDCdata folder
+GDCdata/
+
+# Ignore CSV files in the ExpressionData folder
+ExpressionData/*.csv
